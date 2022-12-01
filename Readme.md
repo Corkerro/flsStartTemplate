@@ -1,15 +1,16 @@
 # **Проверка света дома**
 
 ## **Навигация**
-  * [Регистрация][1]
+  * [Регистрация](#registration)
+  * [Подготовка телеграма](#podgotovka-telegram)
 
 
-[1]## **Регистрация**
+## <a name="registration"></a> **Регистрация**
 Вам необходимо зарегистрироваться на:
  - [Heroku](https://dashboard.heroku.com)
  - [PythonAnyWhere](https://www.pythonanywhere.com/)
 
-## **Подготовка телеграма**
+## <a name="podgotovka-telegram"></a>**Подготовка телеграма**
 ### **Создание бота и получение его токена**
 1. Заходим в телеграм и ищем **[@BotFather](https://t.me/BotFather)**<br>![BotFather](https://imgur.com/fQvoRo2.png)
 2. Пишем команду ***/start***<br>![/start](https://imgur.com/5le8OEM.png)
@@ -23,4 +24,4 @@
 
 ### **Добовляем бота в группу**
    1. Создаем группу телеграм и добавляем в нее тех, кому должно приходить уведомление
-   2. Добавляем в нее бота по его **username_bot**, в моем случае это _Your_name_with_bot_<br>![add bot](https://imgur.com/FCl1d22.png)
+   2. Добавляем в нее бота по его **username_bot**, в моем случае это Your_name_with_bot_<br>![add bot](https://imgur.com/FCl1d22.png)
