@@ -1,5 +1,5 @@
 # **Проверка света дома**
-
+headers
 ## **Навигация**
   * [Регистрация](#registration)
   * [Подготовка телеграма](#podgotovka-telegram)
@@ -13,8 +13,8 @@
 ## <a name="podgotovka-telegram"></a>**Подготовка телеграма**
 ### **Создание бота и получение его токена**
 1. Заходим в телеграм и ищем **[@BotFather](https://t.me/BotFather)**<br>![BotFather](https://imgur.com/fQvoRo2.png)
-2. Пишем команду ***/start***<br>![/start](https://imgur.com/5le8OEM.png)
-3. Выбираем команду ***/newbot***<br>![/newbot](https://imgur.com/Ghr15C9.png)
+2. Пишем команду ***```/start```***<br>![/start](https://imgur.com/5le8OEM.png)
+3. Выбираем команду ***```/newbot```***<br>![/newbot](https://imgur.com/Ghr15C9.png)
 4. Пишем **Имя** бота(любое имя, так будет подписан сам бот) затем его **username_bot**(например: test_bot)<br>![name and username_bot](https://imgur.com/RRJhhYe.png)
 5. Нужно сохранить этот токен<br>![BotFather](https://imgur.com/ipsRgAP.png)<br>
    В моем случае токен такой:
